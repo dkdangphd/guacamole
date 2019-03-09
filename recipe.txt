@@ -1,6 +1,3 @@
-<<<<<<< HEAD
+
 mix ingredients
 add secret ingredient
-=======
-xyz
->>>>>>> full_recipe_instructions
